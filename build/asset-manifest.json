@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cg-protech-site/static/css/main.98517139.css",
+    "main.js": "/cg-protech-site/static/js/main.be6848ef.js",
+    "index.html": "/cg-protech-site/index.html",
+    "main.98517139.css.map": "/cg-protech-site/static/css/main.98517139.css.map",
+    "main.be6848ef.js.map": "/cg-protech-site/static/js/main.be6848ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98517139.css",
+    "static/js/main.be6848ef.js"
+  ]
+}
