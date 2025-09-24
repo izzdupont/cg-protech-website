@@ -2,7 +2,7 @@
   "name": "cg-protech-react-site",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://izzdupont.github.io/cg-protech-site",
+  "homepage": "https://izzdupont.github.io/cg-protech-website",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "react": "^18.3.1",
